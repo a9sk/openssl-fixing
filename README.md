@@ -63,10 +63,3 @@ If you are using any of these versions, it is recommended to use this script to 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contacts
-
-To report bugs, request new features, or ask questions, contact the project author:
-
-- Email: 920a9sk42f76c765@proton.me
-- GitHub: [@a9sk](https://github.com/a9sk)
