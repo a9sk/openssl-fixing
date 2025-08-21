@@ -28,9 +28,9 @@ fix_path () {
         exit 1
     fi
     
-    cp -rf "doc/crypto" "$OPENSSL_SOURCE_DIR/doc"
-    cp -rf "doc/ssl" "$OPENSSL_SOURCE_DIR/doc"
-    cp -rf "doc/apps" "$OPENSSL_SOURCE_DIR/doc"
+    cp -rf "crypto" "$OPENSSL_SOURCE_DIR/doc"
+    cp -rf "ssl" "$OPENSSL_SOURCE_DIR/doc"
+    cp -rf "apps" "$OPENSSL_SOURCE_DIR/doc"
     
     echo "The .pod files have been successfully replaced in the OpenSSL source directory."
     echo "You can now proceed with configuring NGINX."
